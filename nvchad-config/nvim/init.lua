@@ -39,16 +39,13 @@ vim.schedule(function()
 end)
 
 -- MY STUFF --
--- disable neovim mouse support on chromeos
--- vim.opt.mouse = ""
-
 -- set indenting options
 local indent = 4
-vim.opt.autoindent = true
-vim.opt.smartindent = true
---vim.opt.tabstop = indent
---vim.opt.softtabstop = indent
---vim.opt.shiftwidth = indent
-
--- enable true color terminal
+vim.opt.autoindent = true                                                                                                       
+vim.opt.smartindent = true                                                                                                      
+--vim.opt.tabstop = indent                                                                                                      
+--vim.opt.softtabstop = indent                                                                                                  
+--vim.opt.shiftwidth = indent                                                                                                   
+                                                                                                                                  
+-- enable true color terminal                                                                                                   
 vim.opt.termguicolors = true
