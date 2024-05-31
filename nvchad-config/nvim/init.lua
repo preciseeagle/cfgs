@@ -41,11 +41,11 @@ end)
 -- MY STUFF --
 -- set indenting options
 local indent = 4
-vim.opt.autoindent = true                                                                                                       
-vim.opt.smartindent = true                                                                                                      
+vim.opt.autoindent = true
+vim.opt.smartindent = true
 --vim.opt.tabstop = indent                                                                                                      
 --vim.opt.softtabstop = indent                                                                                                  
 --vim.opt.shiftwidth = indent                                                                                                   
-                                                                                                                                  
+--
 -- enable true color terminal                                                                                                   
 vim.opt.termguicolors = true
