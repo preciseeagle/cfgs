@@ -1,0 +1,18 @@
+# Nice-to-haves
+
+## General
+- neofetch
+- neovim
+- tmux
+- tree
+- fzf
+
+## Env
+- docker
+- rbenv
+- pyenv, pip
+
+## Mix Bag
+- docker image autocompletes
+- Git autocompletes (bash/zsh) - https://stackoverflow.com/a/58517668
+- Git ssh agents for authentication
