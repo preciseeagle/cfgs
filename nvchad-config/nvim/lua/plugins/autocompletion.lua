@@ -1,3 +1,5 @@
+-- Makes 'tab' focus the autocomplete dropdown, and not 'enter'
+-- Found at: https://github.com/LUIDWIGI/pepijn-vim/blob/main/lua/plugins/autocompletion.lua
 return {
 
   {
