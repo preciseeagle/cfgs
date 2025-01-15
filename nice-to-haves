@@ -16,3 +16,4 @@
 - docker image autocompletes
 - Git autocompletes (bash/zsh) - https://stackoverflow.com/a/58517668
 - Git ssh agents for authentication
+- nvim normal mode from terminal: https://stackoverflow.com/a/78731532
